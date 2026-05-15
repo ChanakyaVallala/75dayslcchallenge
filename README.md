@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
