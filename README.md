@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0039-combination-sum) |
 | [0260-single-number-iii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0260-single-number-iii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0637-average-of-levels-in-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
