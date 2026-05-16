@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0178-rank-scores) |
 | [0185-department-top-three-salaries](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0185-department-top-three-salaries) |
 | [1789-primary-department-for-each-employee](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1789-primary-department-for-each-employee) |
 ## Tree
