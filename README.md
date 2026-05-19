@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2540-minimum-common-value](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## Greedy
@@ -38,9 +39,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0151-reverse-words-in-a-string) |
+| [2540-minimum-common-value](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
+| [2540-minimum-common-value](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2540-minimum-common-value) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## Sorting
 |  |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0040-combination-sum-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
