@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0260-single-number-iii) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2540-minimum-common-value](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2540-minimum-common-value) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
