@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0090-subsets-ii) |
 | [0260-single-number-iii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0260-single-number-iii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
