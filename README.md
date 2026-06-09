@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3689-maximum-total-subarray-value-i) |
 ## Greedy
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3689-maximum-total-subarray-value-i) |
 ## String
 |  |
 | ------- |
