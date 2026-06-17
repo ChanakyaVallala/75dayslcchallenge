@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3612-process-string-with-special-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [3612-process-string-with-special-operations-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3612-process-string-with-special-operations-i) |
 ## Database
 |  |
 | ------- |
