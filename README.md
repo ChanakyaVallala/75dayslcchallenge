@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0090-subsets-ii) |
 | [0260-single-number-iii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0260-single-number-iii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0055-jump-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2126-destroying-asteroids) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0055-jump-game) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
