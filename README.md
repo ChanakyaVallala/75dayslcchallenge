@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0292-nim-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Dynamic Programming
@@ -202,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
