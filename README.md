@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Backtracking
 |  |
 | ------- |
@@ -216,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0292-nim-game) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
