@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0078-subsets) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0409-longest-palindrome) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1189-maximum-number-of-balloons) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0056-merge-intervals) |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1833-maximum-ice-cream-bars) |
