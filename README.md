@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0090-subsets-ii) |
 | [0260-single-number-iii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0498-diagonal-traverse](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0498-diagonal-traverse) |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
 | [1732-find-the-highest-altitude](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0498-diagonal-traverse) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3612-process-string-with-special-operations-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3612-process-string-with-special-operations-i) |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
