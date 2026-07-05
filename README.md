@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0090-subsets-ii) |
 | [0260-single-number-iii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0260-single-number-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
 | [1732-find-the-highest-altitude](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
 | [2540-minimum-common-value](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2540-minimum-common-value) |
 ## Binary Search Tree
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0055-jump-game) |
+| [0300-longest-increasing-subsequence](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0300-longest-increasing-subsequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
