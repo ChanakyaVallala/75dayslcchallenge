@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0151-reverse-words-in-a-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0409-longest-palindrome) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0012-integer-to-roman) |
 | [0292-nim-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0292-nim-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
