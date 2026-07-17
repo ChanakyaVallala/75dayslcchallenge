@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0049-group-anagrams) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0016-3sum-closest) |
 | [0151-reverse-words-in-a-string](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0056-merge-intervals) |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
