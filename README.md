@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0090-subsets-ii) |
+| [0162-find-peak-element](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0162-find-peak-element) |
 | [0260-single-number-iii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0498-diagonal-traverse](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0498-diagonal-traverse) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
 | [2540-minimum-common-value](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2540-minimum-common-value) |
