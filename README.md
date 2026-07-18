@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0012-integer-to-roman) |
 | [0292-nim-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0292-nim-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Dynamic Programming
@@ -248,5 +250,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
