@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0498-diagonal-traverse](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0498-diagonal-traverse) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
 | [1732-find-the-highest-altitude](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0056-merge-intervals) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2126-destroying-asteroids) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0012-integer-to-roman) |
 | [0292-nim-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0292-nim-game) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3536-maximum-product-of-two-digits) |
