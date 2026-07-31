@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3689-maximum-total-subarray-value-i) |
 ## String
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3612-process-string-with-special-operations-i) |
 ## Trie
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2540-minimum-common-value) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
