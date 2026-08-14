@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0090-subsets-ii) |
+| [0130-surrounded-regions](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0162-find-peak-element) |
 | [0260-single-number-iii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0300-longest-increasing-subsequence) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0130-surrounded-regions](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0404-sum-of-left-leaves) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0130-surrounded-regions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
@@ -271,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0130-surrounded-regions) |
 | [0498-diagonal-traverse](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0498-diagonal-traverse) |
 ## Number Theory
 |  |
