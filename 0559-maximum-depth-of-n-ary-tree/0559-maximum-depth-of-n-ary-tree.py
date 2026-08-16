@@ -11,14 +11,13 @@ class Solution:
         if not root:
             return 0
         queue=deque([root])
-        res=[]
+        res=0
         while(queue):
-            level=[]
             for i in range(len(queue)):
                 node=queue.popleft()
-                level.append(node.val)
+                #level.append(node.val)
                 for i in node.children:
                     queue.append(i)
-            res.append(level)
-        return len(res)
+            res+=1
+        return res
         
