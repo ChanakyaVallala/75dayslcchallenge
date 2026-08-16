@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0434-number-of-segments-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1189-maximum-number-of-balloons) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2833-furthest-point-from-origin) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0409-longest-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
