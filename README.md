@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0498-diagonal-traverse) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2553-separate-the-digits-in-an-array) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3612-process-string-with-special-operations-i) |
 ## Database
 |  |
