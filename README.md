@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3689-maximum-total-subarray-value-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0260-single-number-iii) |
 | [1386-cinema-seat-allocation](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
 | [2540-minimum-common-value](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2540-minimum-common-value) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Interactive
 |  |
@@ -337,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2029-stone-game-ix) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
