@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1872-stone-game-viii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1563-stone-game-v](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2029-stone-game-ix) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0055-jump-game) |
 | [0300-longest-increasing-subsequence](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0300-longest-increasing-subsequence) |
 | [1563-stone-game-v](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1872-stone-game-viii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Enumeration
 |  |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0292-nim-game) |
 | [1563-stone-game-v](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2029-stone-game-ix) |
 ## Union-Find
@@ -338,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -346,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
