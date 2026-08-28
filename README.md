@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3612-process-string-with-special-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3612-process-string-with-special-operations-i) |
+| [3838-weighted-word-mapping](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3838-weighted-word-mapping) |
 ## Database
 |  |
 | ------- |
