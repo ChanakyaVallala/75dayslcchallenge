@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0434-number-of-segments-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1927-sum-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1927-sum-game) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
