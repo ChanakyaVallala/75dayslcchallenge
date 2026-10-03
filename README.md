@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0162-find-peak-element) |
 | [0260-single-number-iii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0260-single-number-iii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0290-word-pattern](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0409-longest-palindrome) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0130-surrounded-regions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
