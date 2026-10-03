@@ -2,9 +2,9 @@ class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         if not nums:
             return 0
+        m=-9999999
         nums.sort()
         a=set(nums)
-        res=[]
         i=0
         b=nums[i]
         c=1
@@ -15,9 +15,9 @@ class Solution:
                 b+=1
             else:
                 b=nums[i+1]
-                res.append(c)
+                m=max(m,c)
                 c=1
                 i=i+1
-        res.append(c)
-        return max(res)
+        m=max(m,c)
+        return m
 
