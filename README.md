@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
 | [0969-pancake-sorting](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0969-pancake-sorting) |
+| [1046-last-stone-weight](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1046-last-stone-weight) |
 | [1386-cinema-seat-allocation](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1732-find-the-highest-altitude) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
+| [1046-last-stone-weight](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1046-last-stone-weight) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 ## Simulation
 |  |
