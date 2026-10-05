@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0969-pancake-sorting) |
 | [1046-last-stone-weight](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1046-last-stone-weight) |
 | [1386-cinema-seat-allocation](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1386-cinema-seat-allocation) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1563-stone-game-v](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0525-contiguous-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2574-left-and-right-sum-differences) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Brainteaser
