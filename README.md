@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0435-non-overlapping-intervals) |
 | [0498-diagonal-traverse](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0498-diagonal-traverse) |
+| [0525-contiguous-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
 | [0969-pancake-sorting](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0969-pancake-sorting) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0409-longest-palindrome) |
+| [0525-contiguous-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0525-contiguous-array) |
 | [1189-maximum-number-of-balloons](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1386-cinema-seat-allocation) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0525-contiguous-array) |
 | [1732-find-the-highest-altitude](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2574-left-and-right-sum-differences) |
