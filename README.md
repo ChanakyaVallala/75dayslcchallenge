@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0185-department-top-three-salaries) |
+| [1045-customers-who-bought-all-products](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1045-customers-who-bought-all-products) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1789-primary-department-for-each-employee](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1789-primary-department-for-each-employee) |
 ## Tree
