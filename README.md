@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1927-sum-game](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1927-sum-game) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2540-minimum-common-value](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search Tree
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1872-stone-game-viii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2574-left-and-right-sum-differences](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3903-smallest-stable-index-i) |
 ## Math
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Brainteaser
