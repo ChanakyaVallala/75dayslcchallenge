@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0434-number-of-segments-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1189-maximum-number-of-balloons) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0525-contiguous-array) |
 | [1189-maximum-number-of-balloons](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
