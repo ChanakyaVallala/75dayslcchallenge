@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/0260-single-number-iii) |
 | [1386-cinema-seat-allocation](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Counting
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2540-minimum-common-value) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3120-count-the-number-of-special-characters-i) |
