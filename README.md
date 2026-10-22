@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3210-find-the-encrypted-string](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3210-find-the-encrypted-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/ChanakyaVallala/75dayslcchallenge/tree/master/3838-weighted-word-mapping) |
 ## Trie
